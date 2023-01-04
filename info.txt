@@ -16,4 +16,8 @@ Cleanup
    -- service-worker.js
    -- serviceWorkerRegistration.js
 
-Doubt | AppRoutes.js   
+Doubt | AppRoutes.js
+
+---------------------------------
+ Install nuget package for DB 
+   -- Microsoft.EntityFrameworkCore.SqlServer 
