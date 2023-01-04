@@ -1,0 +1,19 @@
+in clientApp--> package.json 
+ Verify the versions to be latest 
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+
+Open clientApp in terminal and execute following comand.
+npm install react@latest  react-dom@latest
+
+Cleanup 
+ ClientApp---> Src
+ Remove 
+   -- components directory 
+   ---- App.test.js
+   -- custom.css
+   -- reportWebVitals.js
+   -- service-worker.js
+   -- serviceWorkerRegistration.js
+
+Doubt | AppRoutes.js   
