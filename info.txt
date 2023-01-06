@@ -21,3 +21,9 @@ Doubt | AppRoutes.js
 ---------------------------------
  Install nuget package for DB 
    -- Microsoft.EntityFrameworkCore.SqlServer 
+   
+   
+   adding db from scaffold-DbContext
+
+ scaffold-DbContext "Data Source=LAPTOP-GEEONL46\MSSQLSERVER01;Initial Catalog=BitProSoftTech;Integrated Security=True;TrustServerCertificate=True" microsoft.entityframeworkcore.sqlserver -OutPutDir Models
+ 
